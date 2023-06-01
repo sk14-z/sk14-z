@@ -1,1 +1,1 @@
-New to this, figurting it out on my own.
+New to this, figuring it out on my own.
