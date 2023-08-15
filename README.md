@@ -5,7 +5,7 @@
 <br>
 <h2 align="right">Our Languages</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=dark&layout=compact&langs_count=10"/>
+<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=midnight-purple&layout=compact&langs_count=10"/>
 </a>
 </div>
 
