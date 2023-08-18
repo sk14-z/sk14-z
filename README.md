@@ -26,3 +26,7 @@
   <img src=https://github-readme-streak-stats.herokuapp.com/?user=Sk1-z&theme=transparent&hide_border=true>
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=transparent&hide_border=true&layout=compact&langs_count=10>
 </p>
+
+<img src="https://raw.githubusercontent.com/Sk1-z/Sk1-z/output/snake.svg" alt="Snake animation" />
+
+###
