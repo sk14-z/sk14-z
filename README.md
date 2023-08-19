@@ -19,6 +19,14 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=""dotnet>
   <img src="https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=white" alt="Unity">
 </p>
+<h1></h1>
+<p align=center>
+  <img src=https://github-readme-streak-stats.herokuapp.com/?user=Sk1-z&theme=transparent&hide_border=true>
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=transparent&hide_border=true&layout=compact&langs_count=10>
+</p>
+
+<!--
+Pov retired
 <p align=center>
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
@@ -26,8 +34,4 @@
   <img src="https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white" alt="Electron.js">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js">
 </p>
-<h1></h1>
-<p align=center>
-  <img src=https://github-readme-streak-stats.herokuapp.com/?user=Sk1-z&theme=transparent&hide_border=true>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=transparent&hide_border=true&layout=compact&langs_count=10>
-</p>
+-->
