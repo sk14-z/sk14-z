@@ -1,6 +1,6 @@
 <div align=center>
   <h3>
-    👾Teen from New York who's journey began in june of 2023👾
+    👾De la bodega👾
     <br>
     <br>
     <img width=500 src="https://64.media.tumblr.com/eb22fd21f1fc245b67883f49d75e7287/tumblr_inline_p7l7j7jgX31rz60rk_500.gifv"/>
