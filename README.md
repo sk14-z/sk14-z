@@ -26,6 +26,7 @@
   <img src=https://github-readme-streak-stats.herokuapp.com/?user=Sk1-z&theme=transparent&hide_border=true>
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=transparent&hide_border=true&layout=compact&langs_count=10>
 </p>
+
 > Games I've made and other projects that cannot be found on my github or have been archived can be found on my website [here](https://sk1-z.github.io/)
 
 <!--
