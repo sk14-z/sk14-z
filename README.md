@@ -15,7 +15,7 @@
 </h1>
 
 <p align=center>
-  Most of projects fall into the category of cli tool, game, or library. My primary languages are C, C++, and Java, but I have experience with lua, rust, and zig, and might even make a python or julia script every now and then. Also, I make everything catppuccin. Other projects that cannot be found on my github or have been archived can be found on <a href=https://sk1-z.github.io/>my website</a>. Feel free to also checkout <a href=https://wakatime.com/@Skiz>my wakatime profile</a>. 
+  Most of projects fall into the category of cli tool, game, or library. My primary languages are C, C++, and Java, but I have experience with lua, rust, and zig, and might even make a python julia script every now and then. Also, I make everything catppuccin. Other projects that cannot be found on my github or have been archived can be found on <a href=https://sk1-z.github.io/>my website</a>. Feel free to also checkout <a href=https://wakatime.com/@Skiz>my wakatime profile</a>. 
 </p>
 
 <p align=center>
