@@ -15,12 +15,13 @@
 </h1>
 
 <p align=center>
-  Most of projects fall into the category of cli tool, game, or library. My primary languages are C, C++, and Java, but I have experience with lua, rust, and zig, and might even make a python julia script every now and then. Also, I make everything catppuccin. Other projects that cannot be found on my github or have been archived can be found on <a href=https://sk1-z.github.io/>my website</a>. Feel free to also checkout <a href=https://wakatime.com/@Skiz>my wakatime profile</a>. 
+  Wappaenin. Most of my projects are either a command line tool or library, however they are not limited to the aforementioned, I may sometimes make a gui, or even a game. My primary languages are C, C++, and Java, but I have experience with lua, D, rust, and zig. Also, fun fact, I make everything catppuccin. Other projects that cannot be found on my github or have been archived can be found on <a href=https://sk1-z.github.io/>my website</a>. Feel free to also checkout <a href=https://wakatime.com/@Skiz>my wakatime profile</a>. 
 </p>
 
 <p align=center>
   <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' />
   <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' />
+  <img src='https://img.shields.io/badge/D-CC342D?style=for-the-badge&logo=d&logoColor=white' />
   <img src='https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />
   <img src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white' />
   <img src='https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324' />
