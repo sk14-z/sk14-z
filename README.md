@@ -15,7 +15,7 @@
 </h1>
 
 <p align=center>
-  Wappaenin. Most of my projects are either a command line tool or library, however they are not limited to the aforementioned, I may sometimes make a gui, or even a game. My primary languages are C, C++, and Java, but I have experience with lua, D, rust, and zig. Also, fun fact, I make everything catppuccin. Other projects that cannot be found on my github or have been archived can be found on <a href=https://sk1-z.github.io/>my website</a>. Feel free to also checkout <a href=https://wakatime.com/@Skiz>my wakatime profile</a>. 
+  Wappanin. Most of my projects are either a command line tool or library, however they are not limited to the aforementioned, I may sometimes make a gui, or even a game. My primary languages are C, C++, and Java, but I have experience with lua, D, rust, and zig. Also, fun fact, I make everything catppuccin. Other projects that cannot be found on my github or have been archived can be found on <a href=https://sk1-z.github.io/>my website</a>. Feel free to also checkout <a href=https://wakatime.com/@Skiz>my wakatime profile</a>. 
 </p>
 
 <p align=center>
