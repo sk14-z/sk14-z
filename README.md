@@ -36,12 +36,11 @@
 </p>
 
 <p align=center>
-  My primary wokstation, my laptop, uses arch, however my desktop uses windows and debian. And so by default, most of my projects are made with the intent of being cross-platform. However, there are still some strays that may only be available on windows or only on linux.
+  My primary wokstation, my laptop, uses arch, however my desktop also uses arch but can boot into windows. And so by default, most of my projects are made with the intent of being cross-platform. However, there are still some strays that may only be available on windows or only on linux.
 </p>
 
 <p align=center>
   <img src='https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white' />
-  <img src='https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white' />
   <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />
   <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' />
 </p>
