@@ -15,7 +15,7 @@
 </h1>
 
 <p align=center>
-  Wappanin. Most of my projects are either a command line tool or library, however they are not limited to the aforementioned, I may sometimes make a gui, or even a game. My primary languages are C, C++,  C#, and lua but I have experience with rust and zig. Also, fun fact, I make everything catppuccin. Other projects that cannot be found on my github or have been archived can be found on <a href=https://sk1-z.github.io/>my website</a>. Feel free to also checkout <a href=https://wakatime.com/@Skiz>my wakatime profile</a>. 
+  Wappanin. Most of my projects are either a command line tool or library, however they are not limited to the aforementioned, I may sometimes make a gui, or even a game. Also, fun fact, I make everything catppuccin. Other projects that cannot be found on my github or have been archived can be found on <a href=https://sk1-z.github.io/>my website</a>. Feel free to also checkout <a href=https://wakatime.com/@Skiz>my wakatime profile</a>. 
 </p>
 
 <p align=center>
@@ -24,8 +24,11 @@
   <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' />
   <img src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white' />
   <img src='https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324' />
-  <img src='https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white' />
 </p>
+
+<!-- I really tried to like zig but it still feels very new. Excited for it's future
+<img src='https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white' />
+-->
 
 <p align=center>
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=catppuccin_mocha&layout=compact&langs_count=10>
