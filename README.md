@@ -1,69 +1,35 @@
-<!--
-<div align=center>
-  <h3>
-    👾Wappenin, Im Skiz👾
-    <br>
-    <br>
-    <img width=500 src="https://64.media.tumblr.com/eb22fd21f1fc245b67883f49d75e7287/tumblr_inline_p7l7j7jgX31rz60rk_500.gifv"/>
-    <br>
-  </h3>
-</div>
--->
+[![](https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=80&duration=4000&pause=1000&color=94E2D5&background=313244&center=true&vCenter=true&random=false&width=1000&height=110&lines=Wappenin%2C+I'm+Sk1-z!)](https://git.io/typing-svg)
 
-<h1 align=center>
-  👾Wappenin, Im Skiz👾
-</h1>
+### Wappenin, I'm Skiz. I like to work in low level languages close to the system. I first started programming in the summer of 2023 with web dev, however as time went on, I fell in love with the languages I now use today: C, C++, C#, lua, NASM, and rust. Now I cry everytime I have to inspect a web page, let alone write one. Most of my projects are either a command line tool or library, however they are not limited to those two categories. Also, fun fact, I make everything catppuccin.
 
+<h1></h1>
 <p align=center>
-  Wappenin. Most of my projects are either a command line tool or library, however they are not limited to the aforementioned, I may sometimes make a gui, or even a game. Also, fun fact, I make everything catppuccin. Other projects that cannot be found on my github or have been archived can be found on <a href=https://sk1-z.github.io/>my website</a>. Feel free to also checkout <a href=https://wakatime.com/@Skiz>my wakatime profile</a>. 
-</p>
 
-<p align=center>
-  <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' />
-  <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' />
-  <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' />
-  <img src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white' />
-  <img src='https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324' />
-</p>
+<img align=left src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=catppuccin_mocha&layout=compact&langs_count=10'>
 
-<!-- I really tried to like zig but it still feels very new. Excited for it's future
-<img src='https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white' />
--->
-
-<p align=center>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=catppuccin_mocha&layout=compact&langs_count=10>
-</p>
-
-<p align=center>
-  My primary wokstation, my laptop, uses arch, however my desktop also uses arch but can boot into windows. And so by default, most of my projects are made with the intent of being cross-platform. However, there are still some strays that may only be available on windows or only on linux.
-</p>
-
-<p align=center>
+<p>
   <img src='https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white' />
   <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />
   <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' />
+  <img src='https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white' />
 </p>
+
+<img src='https://skillicons.dev/icons?i=c,cpp,cs,lua,rust,unity' />
+
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
+
+> Other projects that cannot be found on my github or have been archived can be found on [my website](https://sk1-z.github.io). Feel free to also checkout [my wakatime profile](https://wakatime.com/@Skiz).
 
 <!--
-<p align=center>
-  <img float=left src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat&logo=zig&logoColor=white" alt="Zig">
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white" alt="Rust">
-</p>
-<p align=center>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=""dotnet>
-  <img src="https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=white" alt="Unity">
-</p>
-<h1></h1>
+I really tried to like zig but it still feels very new. Excited for it's future
+<img src='https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white' />
 
-<p align=center>
-  <img src=https://github-readme-streak-stats.herokuapp.com/?user=Sk1-z&theme=transparent&hide_border=true>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=transparent&hide_border=true&layout=compact&langs_count=10>
-</p>
-
-> Games I've made and other projects that cannot be found on my github or have been archived can be found on my website [here](https://sk1-z.github.io/)
 
 Pov retired
 <p align=center>
