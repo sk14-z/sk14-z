@@ -1,12 +1,10 @@
-[![](https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=80&duration=4000&pause=1000&color=94E2D5&background=313244&center=true&vCenter=true&random=false&width=1000&height=110&lines=Wappenin%2C+I'm+Sk1-z!)](https://git.io/typing-svg)
-
-### Wappenin, I'm Skiz. I like to work in low level languages close to the system. I first started programming in the summer of 2023 with web dev, however as time went on, I fell in love with the languages I now use today: C, C++, C#, lua, NASM, and rust. Now I cry everytime I have to inspect a web page, let alone write one. Most of my projects are either a command line tool or library, however they are not limited to those two categories. Also, fun fact, I make everything catppuccin.
+[![](https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=40&duration=4000&pause=1000&color=94E2D5&background=313244&center=true&vCenter=true&random=false&width=500&lines=Wappenin%2C+I'm+Sk1-z!)](https://git.io/typing-svg)
+### I first started programming in the summer of 2023 with web dev, however as time went on, I fell in love with the languages I now use today: C, C++, C#, lua, NASM, and rust. Now I cry everytime I have to inspect a web page, let alone write one. I like to work close to the system and most of my projects are either a command line tool or library, however they are not limited to those two categories. Also, fun fact, I make everything catppuccin.
 
 <h1></h1>
-<p align=center>
+<br>
 
 <img align=left src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=catppuccin_mocha&layout=compact&langs_count=10'>
-
 <p>
   <img src='https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white' />
   <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />
@@ -16,10 +14,6 @@
 
 <img src='https://skillicons.dev/icons?i=c,cpp,cs,lua,rust,unity' />
 
-</p>
-
-
-<br>
 <br>
 <br>
 <br>
