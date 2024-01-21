@@ -12,7 +12,7 @@
   <img src='https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white' />
 </p>
 
-<img src='https://skillicons.dev/icons?i=c,cpp,cs,lua,rust,unity' />
+<img src='https://skillicons.dev/icons?i=c,cpp,cs,lua,rust' />
 
 <br>
 <br>
