@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=32&pause=500&color=94E2D5&vCenter=true&random=false&width=435&lines=Wassup%2C+I'm+Skiz" />
 <h3 align=center>
-I code as a hobby and enjoy using programming to explore stem and computers, and there is no specific type of project that I make more often. All my projects, including the one"s that are not here on github, can be found on <a href=https://sk1-z.github.io>https://sk1-z.github.io</a>
+I code as a hobby and enjoy using programming to explore stem and computers, and there is no specific type of project that I make more often. My projects, including those that are not here on github, can also be found at <a href=https://sk1-z.github.io>https://sk1-z.github.io</a>
 </h3>
 <p align=center>
   <img src="https://skillicons.dev/icons?i=linux,arch,neovim" />
