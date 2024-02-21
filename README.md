@@ -11,7 +11,7 @@ I code as a hobby and enjoy using programming to explore stem and computers, and
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=catppuccin_mocha&layout=compact&langs_count=10" />
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Sk1-z&theme=catppuccin_mocha&rank_icon=github&hide=issues,contribs" />
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=32&pause=500&color=94E2D5&vCenter=true&random=false&width=435&lines=Favorite+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=32&pause=500&color=94E2D5&vCenter=true&random=false&width=435&lines=Favorite+Projectskis" alt="Typing SVG" />
 <p align=center>
   <a href="https://github.com/Sk1-z/CompleteC" >
   <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=Sk1-z&theme=catppuccin_mocha&repo=CompleteC" />
