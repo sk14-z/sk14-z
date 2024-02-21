@@ -4,7 +4,7 @@ I code as a hobby and enjoy using programming to explore stem and computers, and
 </h3>
 <p align=center>
   <img src="https://skillicons.dev/icons?i=linux,arch,neovim" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,haskell,lua,rust" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,lua,rust" />
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=32&pause=500&color=94E2D5&vCenter=true&random=false&width=435&lines=Statskis" alt="Typing SVG" />
 <p align=center>
