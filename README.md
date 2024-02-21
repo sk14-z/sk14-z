@@ -1,5 +1,5 @@
 [![](https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=40&duration=4000&pause=1000&color=94E2D5&background=313244&center=true&vCenter=true&random=false&width=500&lines=Wappenin%2C+I'm+Sk1-z!)](https://git.io/typing-svg)
-### I first started programming in the summer of 2023 with web dev, however as time went on, I fell in love with the languages I now use today: C, C++, C#, lua, NASM, and rust. Now I cry everytime I have to inspect a web page, let alone write one. I like to work close to the system and most of my projects are either a command line tool or library, however they are not limited to those two categories. Also, fun fact, I make everything catppuccin.
+### I first started programming in the summer of 2023 with web dev, however as time went on, I fell in love with the languages I now use today: C, C++, C#, lua, NASM, and rust. Now I cry everytime I have to inspect a web page, let alone write one. I like to work close to the system or incorpate math into my project, and there is no specific type of project that I make more often. Also, fun fact, I make everything catppuccin.
 
 <h1></h1>
 <br>
