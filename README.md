@@ -8,18 +8,18 @@ I code as a hobby and enjoy using programming to explore stem and computers, and
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=32&pause=500&color=94E2D5&vCenter=true&random=false&width=435&lines=Statskis" alt="Typing SVG" />
 <p align=center>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=dark&layout=compact&langs_count=10" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Sk1-z&theme=dark&rank_icon=github&hide=issues,contribs" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=transparent&layout=compact&langs_count=10" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Sk1-z&theme=transparent&rank_icon=github&hide=issues,contribs" />
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=32&pause=500&color=94E2D5&vCenter=true&random=false&width=435&lines=Favorite+Projectskis" alt="Typing SVG" />
 <p align=center>
   <a href="https://github.com/Sk1-z/CompleteC" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sk1-z&theme=dark&repo=CompleteC" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sk1-z&theme=transparent&repo=CompleteC" />
   </a>
   <a href="https://github.com/Sk1-z/Contra" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sk1-z&theme=dark&repo=Contra" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sk1-z&theme=transparent&repo=Contra" />
   </a>
   <a href="https://github.com/Sk1-z/Ratt" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sk1-z&theme=dark&repo=Ratt" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sk1-z&theme=transparent&repo=Ratt" />
   </a>
 </p>
