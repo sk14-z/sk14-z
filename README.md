@@ -8,8 +8,8 @@ I code as a hobby and enjoy using programming to explore stem and computers, and
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=32&pause=500&color=94E2D5&vCenter=true&random=false&width=435&lines=Statskis" alt="Typing SVG" />
 <p align=center>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=catppuccin_mocha&layout=compact&langs_count=10" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Sk1-z&theme=catppuccin_mocha&rank_icon=github&hide=issues,contribs" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1-z&theme=catppuccin_mocha&layout=compact&langs_count=10" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sk1-z&theme=catppuccin_mocha&rank_icon=github&hide=issues,contribs" />
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=32&pause=500&color=94E2D5&vCenter=true&random=false&width=435&lines=Favorite+Projectskis" alt="Typing SVG" />
 <p align=center>
