@@ -13,9 +13,6 @@ I code as a hobby and enjoy using programming to explore stem and computers, and
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=32&pause=500&color=006AFF&vCenter=true&random=false&width=435&lines=Favorite+Projectskis" alt="Typing SVG" />
 <h3 align=center>
-    <a href="https://github.com/Sk1-z/CompleteC" >CompleteC</a> is my attempt at a standard library for the C language. I wanted to make C feel more batteries included while still remaining true to the style of the language. It is not meant to make C easy, just remove the need to make the same types of structs and functions everytime a new project is started in a modular style. 
-</h3>
-<h3 align=center>
     <a href="https://github.com/Sk1-z/Contra" >Contra</a> is a secure password manager I made for those looking for something quick, easy, and detached from the internet. I found that with password manager's I've tried in the past, that they would also try to do a lot more then what they were initially made to do, I wanted to break that pattern with Contra, it is a secure password manager and nothing else.
 </h3>
 <h3 align=center>
