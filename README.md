@@ -1,3 +1,9 @@
+<p align=center>
+  <img src="https://skillicons.dev/icons?i=neovim,linux,arch,windows" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,haskell,python,rust" />
+</p>
+
+<!--
 <img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=32&pause=500&color=006AFF&vCenter=true&random=false&width=435&lines=Wassup%2C+I'm+Skiz" />
 <h3 align=center>
 I code as a hobby and enjoy using programming to explore stem and computers, and there is no specific type of project that I make more often. My projects, including those that are not here on github, can also be found at <a href=https://sk1-z.github.io>https://sk1-z.github.io</a>
@@ -18,3 +24,4 @@ I code as a hobby and enjoy using programming to explore stem and computers, and
 <h3 align=center>
     <a href="https://github.com/sk14-z/tindy" >Tindy</a> is a terminal markdown editor with built-in live preview. It has a simple interface to prevent distractions, and lacks the need for configurations. It's primary purpose is to take notes with markdown in the terminal, but it can be used a general text editor.
 </h3>
+-->
