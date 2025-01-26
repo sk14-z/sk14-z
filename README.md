@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=neovim,linux,arch,cpp,cs,haskell,python,rust" />
+  <img src="https://skillicons.dev/icons?i=neovim,linux,arch,cpp,rust,cs,haskell,python" />
 </p>
 
 <!--
